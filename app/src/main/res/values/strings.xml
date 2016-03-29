@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="action_edit_string">Edit</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="name_hint">Enter your Name</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="bio_hint">Write a short Biography</string>
+    <string name="button_send">Save Changes</string>
+    <string name="iv_description">Profile Photo</string>
+    <string name="dialog_title">Add Photo</string>
+    <string name="name_title">Name</string>
+    <string name="email_title">Email</string>
+    <string name="bio_title">Biography</string>
+</resources>

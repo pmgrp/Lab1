@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="action_edit_string">Modifica</string>
+    <string name="bio_hint">Scrivi una breve Biografia</string>
+    <string name="bio_title">Biografia</string>
+    <string name="button_send">Salva Modifiche</string>
+    <string name="dialog_title">Aggiungi Foto</string>
+    <string name="email_hint">Inserisci la tua Email</string>
+    <string name="email_title">Email</string>
+    <string name="iv_description">Foto del Profilo</string>
+    <string name="name_hint">Inserisci il tuo Nome</string>
+    <string name="name_title">Nome</string>
+    <string name="title_activity_edit_profile">Modifica il Profilo</string>
+</resources>
